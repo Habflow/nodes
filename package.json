@@ -1,0 +1,19 @@
+{
+  "name": "@habflow/nodes",
+  "version": "0.1.0",
+  "description": "Node definitions for HabboFlow automations",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Habflow/nodes.git"
+  },
+  "keywords": [
+    "habflow",
+    "habbo",
+    "nodes",
+    "automation"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
